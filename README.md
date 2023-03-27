@@ -2,7 +2,7 @@
 
 ## I'm a lifelong learner and self-taught developer!
 
-- 🌱 I’m currently learning Vue!
+- 🌱 I’m currently learning new technologies!
 - 🥅 2023 Goals: Build more projects!
 
 ### Connect with me:
